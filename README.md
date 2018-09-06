@@ -2,6 +2,4 @@
 
 This is the best website ever created 
 
-This update comes from updateReadme-branch.
-
-Updated locally
+Updates made on master-branch on GitHub before rebase
