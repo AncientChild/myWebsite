@@ -4,8 +4,8 @@ This is the best website ever created
 
 Updates made on master-branch on GitHub before rebase
 
+<<<<<<< HEAD
 ## Repository Purpose
-
-This will be a change that conflicts 
-with whatever is on the remote side.
-This was edited locally.
+=======
+This file is just a readme file.
+>>>>>>> f886f95eac861130009625b32c9c6f2b3272aafd
